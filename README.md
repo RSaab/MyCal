@@ -13,4 +13,5 @@ client/server model, to get exposed to network applications design and implement
 get familiar with basic Java programming.
 
 Note 1: before you run the code, open the Server.java class and enter your own email and password in the beginning of the code where            indicated by a comment.
+
 Note 2: Check the Final Report PDF file for a full description of our implementation.
